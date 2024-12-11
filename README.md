@@ -1,0 +1,1 @@
+Very simple Leo code to mint a "token" struct and then transfer ownership on-chain
